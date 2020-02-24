@@ -1,0 +1,27 @@
+{
+    "name": "sgsoft-studio/static-blocks",
+    "description": "WebEd ACL",
+    "license": "MIT",
+    "homepage": "http://sgsoftware.net",
+    "support": {
+        "issues": "https://github.com/sgsoft-studio/static-blocks/issues",
+        "source": "https://github.com/sgsoft-studio/static-blocks"
+    },
+    "authors": [
+        {
+            "name": "Tedozi Manson",
+            "email": "duyphan.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebEd\\Base\\StaticBlocks\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}

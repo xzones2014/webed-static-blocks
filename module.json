@@ -1,0 +1,10 @@
+{
+    "alias": "webed-static-blocks",
+    "name": "WebEd static blocks",
+    "author": "Tedozi Manson",
+    "description": "WebEd static blocks",
+    "namespace": "WebEd\\Base\\StaticBlocks",
+    "version": "3.1",
+    "autoload": "psr-4",
+    "require": {}
+}
